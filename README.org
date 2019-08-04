@@ -3,9 +3,7 @@ con Haskell de la asignatura de [[https://www.cs.us.es/~jalonso/cursos/i1m/temas
 Matemáticas/ de la Universidad de Sevilla).
 
 Las relaciones publicadas hasta ahora son 
-+ [[https://github.com/jaalonso/Ejercicios_interactivos_de_PF_con_Haskell/blob/master/ejercicios/Rel-17.ipynb][Relación 17: Vectores y matrices con las librerías]].
-
-Sus versiones interactivas se encuentran [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Indice.ipynb][aquí]].
-
++ [[https://github.com/jaalonso/Ejercicios_interactivos_de_PF_con_Haskell/blob/master/ejercicios/Rel-17.ipynb][Relación 17: Vectores y matrices con las librerías]] (Su versión interactiva se
+  encuentran [[https://mybinder.org/v2/gh/jaalonso/Ejercicios_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/ejercicios/Rel-17.ipynb][aquí]]).
 
 
