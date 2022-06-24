@@ -1,7 +1,7 @@
 Este repositorio contiene las relaciones ejercicios de programación funcional
 con Haskell de la asignatura de [[https://www.cs.us.es/~jalonso/cursos/i1m/temas.php][I1M]] (/Informática de 1º del Grado en
 Matemáticas/ de la Universidad de Sevilla).
-
+ 
 Las relaciones publicadas hasta ahora son 
 + [[https://github.com/jaalonso/Ejercicios_interactivos_de_PF_con_Haskell/blob/master/ejercicios/Rel-17.ipynb][Relación 17: Vectores y matrices con las librerías]] (Su versión interactiva se
   encuentran [[https://mybinder.org/v2/gh/jaalonso/Ejercicios_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/ejercicios/Rel-17.ipynb][aquí]]).

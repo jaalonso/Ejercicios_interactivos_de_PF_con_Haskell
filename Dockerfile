@@ -1,10 +1,10 @@
 # Instrucciones:
 # + Para crear la imagen 
-#      docker build -t jaalonso/ejercicios-de-pf-con-haskell:19.08 .
+#      docker build -t jaalonso/ejercicios-de-pf-con-haskell:v2 .
 # + Para ejecutarla
-#      docker run --rm -p 8888:8888 -v $PWD/ejercicios:/home/jovyan/pwd --name ejercicios-de-pf-con-haskell jaalonso/ejercicios-de-pf-con-haskell:19.08
+#      docker run --rm -p 8888:8888 -v $PWD/ejercicios:/home/jovyan/pwd --name ejercicios-de-pf-con-haskell jaalonso/ejercicios-de-pf-con-haskell:v2
 
-FROM jaalonso/ihaskell-i1m:19.08
+FROM jaalonso/ihaskell-i1m:v2
 
 USER root
 
